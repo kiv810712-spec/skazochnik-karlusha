@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://skazochnik-karlusha.ru/sitemap.xml
